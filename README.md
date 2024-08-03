@@ -29,10 +29,12 @@ A simple web application built with React and Vite that generates a random color
 2.**Navigate to the project directory:**
    ```bash
    cd random-colour-generator
+
 3.**Install dependencies:**
 
 ```bash
 npm install
+
 4.**Start the development server:**
 
 ```bash
