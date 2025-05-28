@@ -25,7 +25,7 @@ A simple web application built with React and Vite that generates a random colou
     1. **Clone the repository:**
 
          
-         git clone https://github.com/your-username/random-colour-generator.git
+         git clone https://github.com/najahaja/random-colour-generator.git
 
    2.**Navigate to the project directory:**
    
